@@ -58,7 +58,25 @@ cd src
 node server.js  or nodemon server.js
 
 
-## 🤝 Contributing**
+## 📊 API Endpoints
+
+| **Method** | **Endpoint** | **Description** |
+|------------|------------|-----------------|
+| `GET`  | `/api/topic-wise-performance`  | Fetch topic wise analysis like weak topics |
+| `GET`  | `/api/current-performance`  | Getting recent quiz performance |
+| `GET` | `/api/rank-prediction`  | Predicts NEET rank |
+| `GET` | `/api/college-prediction`  | Suggests some college based on rank |
+
+
+## 🤝 Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request.
 
+
+---
+
+## 🏆 Future Enhancements
+
+🔹 **Algo Rank Prediction (ML Model)**  
+🔹 **Personalized Study Recommendations**  
+🔹 **State-wise & Category-based College Suggestions**  
 
