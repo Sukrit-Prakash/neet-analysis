@@ -1,0 +1,416 @@
+[
+    {
+      "RankRange": "1-10",
+      "CollegeName": "All India Institute of Medical Sciences (AIIMS) Delhi",
+      "State": "Delhi",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "11-20",
+      "CollegeName": "Christian Medical College (CMC)",
+      "State": "Tamil Nadu",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "21-30",
+      "CollegeName": "King George's Medical University",
+      "State": "Uttar Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "31-40",
+      "CollegeName": "Maulana Azad Medical College",
+      "State": "Delhi",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "41-50",
+      "CollegeName": "JIPMER Puducherry",
+      "State": "Puducherry",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "51-60",
+      "CollegeName": "Armed Forces Medical College (AFMC)",
+      "State": "Pune",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "61-70",
+      "CollegeName": "Grant Medical College",
+      "State": "Maharashtra",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "71-80",
+      "CollegeName": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+      "State": "Uttar Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "81-90",
+      "CollegeName": "Lady Hardinge Medical College",
+      "State": "Delhi",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "91-100",
+      "CollegeName": "Banaras Hindu University (BHU) Medical College",
+      "State": "Uttar Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "101-200",
+      "CollegeName": "Kasturba Medical College",
+      "State": "Karnataka",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "201-300",
+      "CollegeName": "St. John's Medical College",
+      "State": "Karnataka",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "301-400",
+      "CollegeName": "Manipal Academy of Higher Education",
+      "State": "Karnataka",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "401-500",
+      "CollegeName": "M.G. Medical College",
+      "State": "West Bengal",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "501-600",
+      "CollegeName": "Sri Ramachandra Medical College",
+      "State": "Tamil Nadu",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "601-700",
+      "CollegeName": "Vardhman Mahavir Medical College",
+      "State": "Delhi",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "701-800",
+      "CollegeName": "Osmania Medical College",
+      "State": "Telangana",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "801-900",
+      "CollegeName": "Institute of Medical Sciences, BHU",
+      "State": "Uttar Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "901-1000",
+      "CollegeName": "Gazi Medical College",
+      "State": "West Bengal",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1001-1100",
+      "CollegeName": "Sri Venkateswara Medical College",
+      "State": "Andhra Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1101-1200",
+      "CollegeName": "Bangalore Medical College and Research Institute",
+      "State": "Karnataka",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1201-1300",
+      "CollegeName": "Government Medical College, Nagpur",
+      "State": "Maharashtra",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1301-1400",
+      "CollegeName": "JSS Medical College",
+      "State": "Karnataka",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1401-1500",
+      "CollegeName": "Thapar Institute of Medical Sciences",
+      "State": "Punjab",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1501-1600",
+      "CollegeName": "Mahatma Gandhi Medical College",
+      "State": "Uttar Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1601-1700",
+      "CollegeName": "Government Medical College, Thiruvananthapuram",
+      "State": "Kerala",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1701-1800",
+      "CollegeName": "Punjab Medical College",
+      "State": "Punjab",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1801-1900",
+      "CollegeName": "Acharya Shri Chander College of Medical Sciences",
+      "State": "Himachal Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "1901-2000",
+      "CollegeName": "Govind Ballabh Pant Medical College",
+      "State": "Uttarakhand",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2001-2100",
+      "CollegeName": "Shri Maharaja Hari Singh Medical College",
+      "State": "Jammu & Kashmir",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2101-2200",
+      "CollegeName": "Veer Surendra Sai Institute of Medical Sciences",
+      "State": "Odisha",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2201-2300",
+      "CollegeName": "Government Medical College, Chandigarh",
+      "State": "Chandigarh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2301-2400",
+      "CollegeName": "Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER)",
+      "State": "Puducherry",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2401-2500",
+      "CollegeName": "Bundelkhand Medical College",
+      "State": "Uttar Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2501-2600",
+      "CollegeName": "Government Medical College, Kozhikode",
+      "State": "Kerala",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2601-2700",
+      "CollegeName": "Sree Gokulam Medical College",
+      "State": "Kerala",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2701-2800",
+      "CollegeName": "Vellore Institute of Technology (VIT) Medical College",
+      "State": "Tamil Nadu",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2801-2900",
+      "CollegeName": "Smt. NHL Municipal Medical College",
+      "State": "Maharashtra",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "2901-3000",
+      "CollegeName": "Maharaja Agrasen Medical College",
+      "State": "Haryana",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3001-3100",
+      "CollegeName": "Amrita School of Medicine",
+      "State": "Karnataka",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3101-3200",
+      "CollegeName": "SRM Medical College",
+      "State": "Tamil Nadu",
+      "Category": "Private",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3201-3300",
+      "CollegeName": "B.P. Koirala Institute of Health Sciences",
+      "State": "Sikkim",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3301-3400",
+      "CollegeName": "Government Medical College, Thrissur",
+      "State": "Kerala",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3401-3500",
+      "CollegeName": "Sri Devaraj Urs Medical College",
+      "State": "Karnataka",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3501-3600",
+      "CollegeName": "Goa Medical College",
+      "State": "Goa",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3601-3700",
+      "CollegeName": "Rajiv Gandhi University of Health Sciences",
+      "State": "Karnataka",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3701-3800",
+      "CollegeName": "Government Medical College, Nagpur",
+      "State": "Maharashtra",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3801-3900",
+      "CollegeName": "Veer Bahadur Singh Purvanchal University Medical College",
+      "State": "Uttar Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "3901-4000",
+      "CollegeName": "Government Medical College, Amritsar",
+      "State": "Punjab",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4001-4100",
+      "CollegeName": "Government Medical College, Patiala",
+      "State": "Punjab",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4101-4200",
+      "CollegeName": "Government Medical College, Mumbai",
+      "State": "Maharashtra",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4201-4300",
+      "CollegeName": "Government Medical College, Shimla",
+      "State": "Himachal Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4301-4400",
+      "CollegeName": "Government Medical College, Bhavnagar",
+      "State": "Gujarat",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4401-4500",
+      "CollegeName": "Government Medical College, Bilaspur",
+      "State": "Chhattisgarh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4501-4600",
+      "CollegeName": "Government Medical College, Mysore",
+      "State": "Karnataka",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4601-4700",
+      "CollegeName": "Government Medical College, Bhopal",
+      "State": "Madhya Pradesh",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4701-4800",
+      "CollegeName": "Government Medical College, Kota",
+      "State": "Rajasthan",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4801-4900",
+      "CollegeName": "Government Medical College, Srinagar",
+      "State": "Jammu & Kashmir",
+      "Category": "Government",
+      "Program": "MBBS"
+    },
+    {
+      "RankRange": "4901-5000",
+      "CollegeName": "Government Medical College, Raipur",
+      "State": "Chhattisgarh",
+      "Category": "Government",
+      "Program": "MBBS"
+    }
+  ]
+  
