@@ -3,7 +3,7 @@ const express = require("express");
 const fetchQuizData = require("../data/fetchQuizData");
 // const extractQuizDetails = require("../analysis/performance");
 const predictRank = require("../analysis/rankpred");
-const predictCollege = require("../analysis/collegepred");
+const findCollege = require("../analysis/collegepred");
 
 const router = express.Router();
 
@@ -21,7 +21,7 @@ router.get("/college-prediction", async (req, res) => {
     if (!data) return res.status(500).json({ error: "Failed to fetch data" });
 
     const rankInfo = predictRank(data.previousQuizData, data.currentQuiz);
-    const college = predictCollege(rankInfo, rankvcollege);
+    const college = findCollege(rankInfo, rankvcollege);
 
     res.json({ rankInfo, predictedCollege: college });
 });
